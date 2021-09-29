@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kipgeomorph
-- 👀 I’m interested in geohazards, stacking interferometry, R and python Coding.
+- 👀 I’m interested in geohazards, stacking interferometry, R and Python coding.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on interferometric data analysis.
 
